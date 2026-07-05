@@ -1,0 +1,3 @@
+export const ROS_CONFIG = {
+    ROSBRIDGE_URL: 'ws://10.211.55.7:9090' //10.211.55.7 192.168.68.102
+};

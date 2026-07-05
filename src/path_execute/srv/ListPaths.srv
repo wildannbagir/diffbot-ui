@@ -1,0 +1,7 @@
+# Request
+string filter  # Optional filter string to match path names
+---
+# Response
+bool success
+string[] paths
+string message 
